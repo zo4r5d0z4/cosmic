@@ -76,4 +76,4 @@ ScriptHub searches three major script libraries:
 
 ## License
 
-MIT License - see [https://github.com/zo4r5d0z4/cosmic/blob/main/LICENSE](LICENSE) file for details.
+MIT License - see [LICENSE](https://github.com/zo4r5d0z4/cosmic/blob/main/LICENSE) file for details.
