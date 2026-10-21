@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+*.pyo
+*.exe
+*.dll
+*.zip
+.DS_Store
+Thumbs.db
+.env
+*.log
+build/
+dist/
+*.egg-info/
